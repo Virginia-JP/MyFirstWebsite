@@ -506,6 +506,10 @@ button {
   cursor: pointer;
 }
 
+button a {
+  display: block;
+}
+
 button:hover {
   box-shadow: 0 2px #999;
 }
