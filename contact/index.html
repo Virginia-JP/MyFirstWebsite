@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" class="times">
+<head>
+    <meta charset="UTF-8">
+    <title>CONTACT</title>    
+    <link href="/stylesheet.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <h2>Virginia Lu's Website</h2>
+    </header> 
+    
+    <nav class="navigation">
+        <h4>
+            <a href="/index.html">ABOUT ME</a> |
+            <a href="/resume/index.html">RESUME</a> |
+            <a href="/publication&projects/index.html">PUBLICATION & PROJECTS</a> |
+            <a href="/socialservice/index.html">SOCIAL SERVICE</a> |
+            <a href="/hobby/index.html">HOBBY</a> |
+            <a href="/contact/index.html">CONTACT</a>
+    </h4>
+
+    <div class="contact-container">
+        <form action="https://api.web3forms.com/submit" method="POST" class="contact-left">
+            <div class="contact-left-title">
+                <h2>Get in touch</h2>
+                <hr>
+            </div>
+            <!--Use Web3Forms API service-->
+            <input type="hidden" name="access_key" value="145bae82-8ba3-4364-9ffc-2ed5147910c3">
+            <input type="text" name="name" placeholder="Your name*" class="contact-input" required>            
+            <input type="email" name="email" placeholder="Your Email address*" class="contact-input" required>             
+            <textarea 
+              name="message"
+              placeholder="Please feel free to leave me a message, and I'll get back to you~~"
+              class="contact-input-msg"
+              required
+            ></textarea>            
+            <button type="submit">Submit</button>
+        </form>
+        <div class="contact-right">
+            <img src="/asset/contact.jpg" width="80%">
+
+        </div>
+
+    </div>
+
+<footer>
+    <hr>
+    <p>&copy; Virginia Lu's Website 2024</p>
+</footer>
+
+</body>
+</html>
