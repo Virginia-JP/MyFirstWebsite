@@ -39,6 +39,10 @@ body nav h4 {
     line-height: 1.5em;
 }
 
+.introduction-home h2 {
+  animation: rainbow 5s infinite;
+}
+
 .introduction h2 {
     color:#D67940;
     }
