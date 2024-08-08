@@ -8,6 +8,11 @@ header {
     color: #D67940;
 }
 
+header a {
+  text-decoration: none;
+  color: #D67940;
+}
+
 body nav h4 {
   text-align: right;
   background-color: #D67940;
