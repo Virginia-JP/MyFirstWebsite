@@ -300,8 +300,8 @@ section ul {
   margin-left: 0;
   margin-right: 0;
   padding-top: 0;
-  width:250px;
-  height: 300px;
+  width:160px;
+  height: 200px;
 }
 
 
@@ -309,16 +309,16 @@ section ul {
   background-color: #285185;
   color: white;
   text-align: center;
-  width:800px;
-  height:300px;
+  width:400px;
+  height:200px;
   margin:0;
 }
 
 
 .jogging3 img {
   padding-top: 0;
-  height: 300px;
-  width: 400px;
+  height: 200px;
+  width: 250px;
 }
 
 
@@ -332,17 +332,17 @@ section ul {
   margin-left: 0;
   margin-right: 0;
   padding-top: 0;
-  width:250px;
-  height: 300px;
+  width:160px;
+  height: 200px;
 }
 
 
 .music2 {
-  width: 800px;
+  width: 400px;
   background-color: #285185;
   color: white;
   text-align: center;
-  height:300px;
+  height:200px;
   margin:0;
 }
 
@@ -350,8 +350,8 @@ section ul {
 
 .music3 video {
   background-color: black;
-  height: 300px;
-  width:400px;
+  height: 200px;
+  width:250px;
 
 }
 
@@ -366,24 +366,24 @@ section ul {
   margin-left: 0;
   margin-right: 0;
   padding-top: 0;
-  width:250px;
-  height: 300px;
+  width:160px;
+  height: 200px;
 }
 
 
 .wine2 {
-  width: 800px;
+  width: 400px;
   background-color: #285185;
   color: white;
   text-align: center;
-  height:300px;
+  height:200px;
   margin:0;
 }
 
 
 .wine3 img {
   padding-top: 0;
-  height: 300px;
+  height: 200px;
 }
 
 .coffee {
@@ -396,24 +396,24 @@ section ul {
   margin-left: 0;
   margin-right: 0;
   padding-top: 0;
-  width:250px;
-  height: 300px;
+  width:160px;
+  height: 200px;
 }
 
 
 .coffee2 {
-  width: 800px;
+  width: 400px;
   background-color: #285185;
   color: white;
   text-align: center;
-  height:300px;
+  height:200px;
   margin:0;
 }
 
 
 .coffee3 img {
   padding-top: 0;
-  height: 300px;
+  height: 200px;
 }
 
 #research button {
