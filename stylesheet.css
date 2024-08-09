@@ -74,6 +74,16 @@ nav button a {
   line-height: 1em;
 }
 
+
+#clock {
+  color: black;
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid;
+}
+
+
 div ul {
   line-height: 100%;
 }
