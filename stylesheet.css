@@ -77,10 +77,9 @@ nav button a {
 
 #clock {
   color: black;
-  font-size: 40px;
+  font-size: 30px;
   align-items: center;
   justify-content: center;
-  border: 2px solid;
 }
 
 
