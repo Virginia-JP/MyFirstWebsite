@@ -363,7 +363,7 @@ section ul {
   margin-right: 0;
   padding-top: 0;
   width:160px;
-  height: 250px;
+  height: 200px;
 }
 
 
@@ -372,14 +372,18 @@ section ul {
   color: white;
   text-align: center;
   width:500px;
-  height:250px;
+  height:200px;
   margin:0;
+}
+
+.jogging2 p {
+  line-height: 0.8;
 }
 
 
 .jogging3 img {
   padding-top: 0;
-  height: 250px;
+  height: 200px;
   width: 250px;
 }
 
@@ -395,7 +399,7 @@ section ul {
   margin-right: 0;
   padding-top: 0;
   width:160px;
-  height: 250px;
+  height: 200px;
 }
 
 
@@ -404,15 +408,17 @@ section ul {
   background-color: #285185;
   color: white;
   text-align: center;
-  height:250px;
+  height:200px;
   margin:0;
 }
 
-
+.music2 p {
+  line-height: 0.8;
+}
 
 .music3 video {
   background-color: black;
-  height: 250px;
+  height: 200px;
   width:250px;
 
 }
@@ -440,6 +446,10 @@ section ul {
   text-align: center;
   height:250px;
   margin:0;
+}
+
+.wine2 p {
+  line-height: 0.8;
 }
 
 
@@ -471,6 +481,10 @@ section ul {
   text-align: center;
   height:250px;
   margin:0;
+}
+
+.coffee2 p {
+  line-height: 0.8;
 }
 
 
