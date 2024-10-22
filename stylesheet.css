@@ -425,7 +425,11 @@ section ul {
 
 }
 
-
+.music3 img {
+  padding-top: 0;
+  height:220px;
+  width: 250px;
+}
 .wine {
   margin:0;
   display: flex;
