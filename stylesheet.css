@@ -418,11 +418,12 @@ section ul {
   line-height: 1.2;
 }
 
-.music2 img {
+.music3 img {
   padding-top: 0;
   height:220px;
   width: 250px;
 }
+
 .wine {
   margin:0;
   display: flex;
