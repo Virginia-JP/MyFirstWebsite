@@ -51,7 +51,7 @@ head h2 {
 
 header h2 {
     text-align: center;
-    color: #D67940black;
+    color: #D67940 black;
     height: 30px;
 }
 
@@ -615,4 +615,4 @@ button:hover {
     display: none;
 
 }
-
+}
