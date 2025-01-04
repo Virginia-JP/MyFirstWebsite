@@ -146,17 +146,18 @@ div ul {
     padding-block: 5px;
   }
 
-  .content_img h1 {
+  .content_img h2 {
     padding-top: 10px;
   } 
 
+  /*
   .content_img h2 {
     font-size: 150%;
     padding-bottom: 10px;
     color: #D67940;
     animation: rainbow 5s infinite;
   }
-
+*/
   .content_img p {
     text-align:left;
     padding-left: 20px;
